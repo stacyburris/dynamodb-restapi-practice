@@ -1,0 +1,22 @@
+{
+  "name": "dynamodb-restapi-practice",
+  "version": "1.0.0",
+  "description": "AWS Lambda and DynamoDB Rest API (full CRUD)",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacyburris/dynamodb-restapi-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacyburris/dynamodb-restapi-practice/issues"
+  },
+  "homepage": "https://github.com/stacyburris/dynamodb-restapi-practice#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}

@@ -7,4 +7,3 @@ Commands
 - sls = (serverless)
 - sls create -t aws-nodejs
 
-
